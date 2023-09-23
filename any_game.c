@@ -1,6 +1,7 @@
 /// Engineer: MEtehan GENCER
 
 // This is try program
+// This software code was written by Metehan GENCER who is an Embedded System Engineer. He love Coding.
 
 #include <stdio.h>
 #include <conio.h>
